@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+main{
+    background-image: url("bg-intro-desktop.png");
+    width: 80%;
+    height: 85vh;
+    background-color: lightcoral;
+    margin: auto;
+   
+}
+.cont{
+    display: flex;
+   margin: auto;
+   padding: 30px;
+}
+.colA{
+    color: white;
+    width: 50%;
+    
+
+}
+.colB{
+   width: 50%;
+  
+}
+.colB p{
+    background-color: purple;
+   width: 75%;
+   padding: 10px;
+   color: white;
+   border-radius: 5px;
+}
+.form{
+    
+    background-color: white;
+    height: 60vh;
+    width: 60vh;
+    margin-top: 20px;
+}
+input{
+    border: 1px solid lightgrey;
+    height: 30px;
+    width: 70%;
+ margin-left: 35px;
+padding: 15px;
+margin: 10px;
+border-radius: 3px;
+transition: ;
+ 
+}
+button{
+    background-color: aqua;
+    padding: 10px;
+   border: 1px solid aqua;
+   box-shadow: 2px;
+   margin-left: 10px;
+   width: 60%;
+
+}
