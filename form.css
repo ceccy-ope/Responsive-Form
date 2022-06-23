@@ -43,19 +43,21 @@ input{
     border: 1px solid lightgrey;
     height: 30px;
     width: 70%;
- margin-left: 35px;
+ margin-left: 55px;
 padding: 15px;
 margin: 10px;
 border-radius: 3px;
-transition: ;
+
  
+}
+label{
+    margin-left: 55px;
 }
 button{
     background-color: aqua;
     padding: 10px;
    border: 1px solid aqua;
    box-shadow: 2px;
-   margin-left: 10px;
-   width: 60%;
-
+   margin-left: 55px;
+   width: 70%;
 }
